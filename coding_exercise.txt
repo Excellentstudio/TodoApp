@@ -1,0 +1,32 @@
+Coding Exercise 
+
+Build a simple web app that allows its users to manage their todo list. The user would be able to perform the following function(s);
+- register a user account 
+- login (if an account already exists) 
+- forgot password (i.e. ability to reset password) 
+- view todo list 
+- add item to todo list 
+- update todo list item 
+- delete item on todo list 
+
+- mark item on todo list as complete 
+
+Tech stack 
+- JavaScript/TypeScript
+- React 
+- .NET Core 
+- C# 
+- any other library you feel might be useful 
+
+Areas to focus/think about: 
+- Documentation (README, XML File Documentation, Comments, etc) 
+- Architectural/Design Patterns 
+- Tests (Unit, Integration, UI) 
+- Data Structure choice 
+- Ease of installation/build/run/deployment 
+- SOLID code 
+- DRY pattern 
+- Logging 
+- Validation 
+
+
